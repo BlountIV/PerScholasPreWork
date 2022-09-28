@@ -1,0 +1,13 @@
+		h2 {
+			color: Purple;
+		}
+
+		h3 {
+			color: red;
+		}
+
+		.favorites{
+			color: blue;
+		}
+
+		* { border: 1px solid red; }
